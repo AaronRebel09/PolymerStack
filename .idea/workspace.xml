@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="05b499ff-20f5-4f77-b01d-028fa312af71" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/aron_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/backup.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/back/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/back/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/back/login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/cuentas.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/front/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/front/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/login/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/my-app.js" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-936593880">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.245" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.open.time.79" value="1" />
+          <entry key="project.open.time.80" value="1" />
+          <entry key="project.open.time.81" value="1" />
+          <entry key="project.opened" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="115" />
+          <entry key="js" value="2284" />
+          <entry key="json" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="175" />
+          <entry key="JSON" value="12" />
+          <entry key="JavaScript" value="2224" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="7" />
+          <entry key="js" value="9" />
+          <entry key="json" value="3" />
+          <entry key="md" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="7" />
+          <entry key="JSON" value="3" />
+          <entry key="JavaScript" value="9" />
+          <entry key="Markdown" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/front/src/login/login-element.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="41" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#73#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/front/src/my-app.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/front/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1530">
+              <caret line="90" selection-start-line="90" selection-end-line="90" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/front/src/login/node_modules/@polymer/paper-input/paper-input.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/back/login.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/back/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/back/server2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/front/src/backup.html" />
+        <option value="$PROJECT_DIR$/front/src/my-app.js" />
+        <option value="$PROJECT_DIR$/back/server.js" />
+        <option value="$PROJECT_DIR$/back/server2.js" />
+        <option value="$PROJECT_DIR$/back/server1.js" />
+        <option value="$PROJECT_DIR$/back/package.json" />
+        <option value="$PROJECT_DIR$/back/login.js" />
+        <option value="$PROJECT_DIR$/front/index.html" />
+        <option value="$PROJECT_DIR$/front/src/login/login-element.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/back/node_modules" />
+    <handled-path value="$PROJECT_DIR$/front/node_modules" />
+    <handled-path value="$PROJECT_DIR$/front/src/login/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/back/package.json" />
+      <path value="$PROJECT_DIR$/front/package.json" />
+      <path value="$PROJECT_DIR$/front/src/login/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="775" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PolymerStack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PolymerStack" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PolymerStack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PolymerStack" type="462c0819:PsiDirectoryNode" />
+              <item name="back" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PolymerStack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PolymerStack" type="462c0819:PsiDirectoryNode" />
+              <item name="front" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PolymerStack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PolymerStack" type="462c0819:PsiDirectoryNode" />
+              <item name="front" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Polymer" type="js.build_tools.npm" factoryName="npm">
+      <package-json value="$PROJECT_DIR$/front/package.json" />
+      <command value="start" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05b499ff-20f5-4f77-b01d-028fa312af71" name="Default Changelist" comment="" />
+      <created>1541649111031</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541649111031</updated>
+      <workItem from="1541649121486" duration="346000" />
+      <workItem from="1541737409230" duration="2854000" />
+      <workItem from="1541871261231" duration="1079000" />
+      <workItem from="1541872549692" duration="237000" />
+      <workItem from="1541872984807" duration="2255000" />
+      <workItem from="1541893832788" duration="1224000" />
+      <workItem from="1541895270210" duration="23509000" />
+      <workItem from="1541960709709" duration="9903000" />
+      <workItem from="1542032063687" duration="282000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="41689000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.47172618" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32872504" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32822084" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.33333334" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/front/node_modules/polymer-cli/node_modules/plylog/index.js" />
+        <option value="$PROJECT_DIR$/front/node_modules/polymer-cli/node_modules/plylog/index.d.ts" />
+        <option value="$PROJECT_DIR$/front/node_modules/polymer-cli/node_modules/plylog/index.js.map" />
+        <option value="$PROJECT_DIR$/front/node_modules/polymer-cli/node_modules/cleankill/index.js" />
+        <option value="$PROJECT_DIR$/front/node_modules/polymer-cli/node_modules/cleankill/index.d.ts" />
+        <option value="$PROJECT_DIR$/front/node_modules/polymer-cli/node_modules/web-component-tester/runner/httpbin.js" />
+        <option value="$PROJECT_DIR$/front/node_modules/polymer-cli/node_modules/web-component-tester/runner/httpbin.d.ts" />
+        <option value="$PROJECT_DIR$/front/node_modules/polymer-cli/node_modules/web-component-tester/runner/httpbin.js.map" />
+        <option value="$PROJECT_DIR$/front/node_modules/polymer-cli/node_modules/web-component-tester/runner/clireporter.js" />
+        <option value="$PROJECT_DIR$/front/node_modules/polymer-cli/node_modules/web-component-tester/runner/clireporter.d.ts" />
+        <option value="$PROJECT_DIR$/front/node_modules/polymer-cli/node_modules/web-component-tester/runner/clireporter.js.map" />
+        <option value="$PROJECT_DIR$/front/node_modules/polymer-cli/node_modules/web-component-tester/runner/webserver.js" />
+        <option value="$PROJECT_DIR$/front/node_modules/polymer-cli/node_modules/web-component-tester/runner/webserver.d.ts" />
+        <option value="$PROJECT_DIR$/front/node_modules/polymer-cli/node_modules/web-component-tester/runner/webserver.js.map" />
+        <option value="$PROJECT_DIR$/front/node_modules/polymer-cli/node_modules/web-component-tester/runner/steps.js" />
+        <option value="$PROJECT_DIR$/front/node_modules/polymer-cli/node_modules/web-component-tester/runner/steps.d.ts" />
+        <option value="$PROJECT_DIR$/front/node_modules/polymer-cli/node_modules/web-component-tester/runner/steps.js.map" />
+        <option value="$PROJECT_DIR$/front/node_modules/polymer-cli/node_modules/web-component-tester/runner/gulp.js" />
+        <option value="$PROJECT_DIR$/front/node_modules/polymer-cli/node_modules/web-component-tester/runner/gulp.d.ts" />
+        <option value="$PROJECT_DIR$/front/node_modules/polymer-cli/node_modules/web-component-tester/runner/gulp.js.map" />
+        <option value="$PROJECT_DIR$/front/node_modules/polymer-cli/node_modules/web-component-tester/runner/cli.js" />
+        <option value="$PROJECT_DIR$/front/node_modules/polymer-cli/node_modules/web-component-tester/runner/cli.d.ts" />
+        <option value="$PROJECT_DIR$/front/node_modules/polymer-cli/node_modules/web-component-tester/runner/cli.js.map" />
+        <option value="$PROJECT_DIR$/front/node_modules/polymer-cli/node_modules/web-component-tester/runner/config.js" />
+        <option value="$PROJECT_DIR$/front/node_modules/polymer-cli/node_modules/web-component-tester/runner/config.d.ts" />
+        <option value="$PROJECT_DIR$/front/node_modules/polymer-cli/node_modules/web-component-tester/runner/config.js.map" />
+        <option value="$PROJECT_DIR$/front/node_modules/polymer-cli/node_modules/web-component-tester/runner/context.js" />
+        <option value="$PROJECT_DIR$/front/node_modules/polymer-cli/node_modules/web-component-tester/runner/context.d.ts" />
+        <option value="$PROJECT_DIR$/front/node_modules/polymer-cli/node_modules/web-component-tester/runner/context.js.map" />
+        <option value="$PROJECT_DIR$/front/node_modules/polymer-cli/node_modules/web-component-tester/runner/port-scanner.js" />
+        <option value="$PROJECT_DIR$/front/node_modules/polymer-cli/node_modules/web-component-tester/runner/port-scanner.d.ts" />
+        <option value="$PROJECT_DIR$/front/node_modules/polymer-cli/node_modules/web-component-tester/runner/port-scanner.js.map" />
+        <option value="$PROJECT_DIR$/front/node_modules/polymer-cli/node_modules/web-component-tester/runner/paths.js" />
+        <option value="$PROJECT_DIR$/front/node_modules/polymer-cli/node_modules/web-component-tester/runner/paths.d.ts" />
+        <option value="$PROJECT_DIR$/front/node_modules/polymer-cli/node_modules/web-component-tester/runner/paths.js.map" />
+        <option value="$PROJECT_DIR$/front/node_modules/polymer-cli/node_modules/web-component-tester/runner/test.js" />
+        <option value="$PROJECT_DIR$/front/node_modules/polymer-cli/node_modules/web-component-tester/runner/test.d.ts" />
+        <option value="$PROJECT_DIR$/front/node_modules/polymer-cli/node_modules/web-component-tester/runner/test.js.map" />
+        <option value="$PROJECT_DIR$/front/node_modules/polymer-cli/node_modules/web-component-tester/runner/browserrunner.js" />
+        <option value="$PROJECT_DIR$/front/node_modules/polymer-cli/node_modules/web-component-tester/runner/browserrunner.d.ts" />
+        <option value="$PROJECT_DIR$/front/node_modules/polymer-cli/node_modules/web-component-tester/runner/browserrunner.js.map" />
+        <option value="$PROJECT_DIR$/front/node_modules/polymer-cli/node_modules/web-component-tester/runner/plugin.js" />
+        <option value="$PROJECT_DIR$/front/node_modules/polymer-cli/node_modules/web-component-tester/runner/plugin.d.ts" />
+        <option value="$PROJECT_DIR$/front/node_modules/polymer-cli/node_modules/web-component-tester/runner/plugin.js.map" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/front/src/backup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="42" column="20" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/src/login/login.html" />
+    <entry file="file://$PROJECT_DIR$/front/src/login/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/polymerServe.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="44" lean-forward="true" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/src/login/node_modules/@polymer/paper-input/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-4" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/src/login/login-element.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="41" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1530">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/src/login/node_modules/@polymer/paper-input/paper-input.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/server2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/src/my-app.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

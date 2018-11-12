@@ -2,7 +2,7 @@
   "name": "miproyecto2018",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "login.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon server.js"
@@ -12,7 +12,8 @@
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
-    "mongodb": "^2.2.33"
+    "mongodb": "^2.2.33",
+    "request-json": "^0.6.4"
   },
   "devDependencies": {
     "nodemon": "^1.18.5"
