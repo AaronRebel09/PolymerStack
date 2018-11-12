@@ -3,8 +3,6 @@ import '@polymer/paper-input/paper-input.js';
 import '@polymer/paper-button/paper-button.js';
 import '@polymer/iron-ajax/iron-ajax.js';
 
-<script type="module" src="../my-app.js"></script>
-
 /**
  * `login-element`
  * 
